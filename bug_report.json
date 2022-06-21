@@ -1,17 +1,17 @@
 {
   "bugReport": {
-    "description": 
-    "stepsToReproduce":
-    "actualResult":
-    "expectedResult":
-    "project":
+    "description": "Irrelevant result of search when adding the full item name",
+    "stepsToReproduce": ["1. Open home Page", "2. In the Search field type an item full name (Granada Mugs – Assorted Set of Three)", "3. Press Enter"],
+    "actualResult": "No searching item shown",
+    "expectedResult": "Exact item is shown on the first position of search result",
+    "project": "Sophie Conran Cutlery Shop",
     "build":
-    "severity":
-    "priority":
-    "bugStatus":
-    "author":
+    "severity": "Major",
+    "priority": "P 2",
+    "bugStatus": 
+    "author": "A. Neriievskyi",
     "assignedTo":
-    "environment":
+    "environment": "Windows 10",
     "attachedFiles":
   }
 }
